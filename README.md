@@ -8,7 +8,6 @@ I'm **László**, a passionate teen developer from **Hungary**, constantly striv
 - 🔥 **On a mission**: Building innovative projects and tackling challenges head-on since 2019
 - 🔬 **Learning**: Currently diving deep into **React**, **Tailwind CSS**, and **NextJS**
 - 🚀 **Aspiration**: To become a proficient **full-stack developer**
-- 🌐 **Current Project**: Developing a Hungarian learning platform called **LumoLearn**
 
 ---
 
