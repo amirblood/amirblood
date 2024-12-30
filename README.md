@@ -19,7 +19,7 @@ I'm **László**, a passionate teen developer from **Hungary**, constantly striv
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-%000000AC.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NextJS]([https://img.shields.io/badge/NextJS-%000000AC.svg?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white))
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
