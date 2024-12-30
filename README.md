@@ -5,7 +5,7 @@ I'm **László**, a passionate teen developer from **Hungary**, constantly striv
 ---
 
 ## 🌟 About Me
-- 🔥 **On a mission**: Building innovative projects and tackling challenges head-on since 2019
+- 🔥 **On a mission**: Building innovative projects and tackling challenges head-on since 2020
 - 🔬 **Learning**: Currently diving deep into **React**, **Tailwind CSS**, and **NextJS**
 - 🚀 **Aspiration**: To become a proficient **full-stack developer**
 
