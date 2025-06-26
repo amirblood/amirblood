@@ -1,6 +1,6 @@
 # Sziasztok! 👋
 
-Én **László** vagyok. Egy fiatal srác vagyok **Magyarországról**, aki szeret új dolgokat kipróbálni, tanulni, és olyan dolgokat csinálni, amiknek tényleg van értelme. Jelenleg iskola mellett adószámos magánszemélyként tevékenykedem mint webfejlesztő.
+Én **László** vagyok. Egy fiatal srác **Magyarországról**, aki szeret új dolgokat kipróbálni, tanulni, és olyan dolgokat csinálni, amiknek tényleg van értelme. Jelenleg iskola mellett adószámos magánszemélyként tevékenykedem mint webfejlesztő.
 
 ---
 
