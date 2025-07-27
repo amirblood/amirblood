@@ -6,7 +6,7 @@
 
 ## 🌟 Rólam
 - 🔥 2021 óta építek saját projekteket és keresem az új kihívásokat
-- 🧠 Jelenleg a frontend mellett a backend fejlesztésbe is egyre jobban beleásom magam – leginkább a React, Tailwind CSS és Next.js mellett tanulok backendet is.
+- 🧠 Jelenleg a frontend mellett a backend fejlesztésbe is egyre jobban beleásom magam. Leginkább a React, Tailwind CSS és Next.js mellett tanulok backendet is.
 - 🚀 Célom, hogy idővel teljes értékű full-stack fejlesztő legyek
 
 ---
