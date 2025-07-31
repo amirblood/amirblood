@@ -8,7 +8,7 @@ Fiatal, lelkes fejlesztő Magyarországról. Szenvedélyem az új dolgok felfede
 
 - 🔧 2021 óta készítek projekteket, tanulok és fejlődöm
 - 🧠 Full-stack irányba haladok: frontend mellett backendet is tanulok
-- 💻 Leggyakrabban React, Next.js és Tailwind CSS technológiákkal dolgozom
+- 💻 Leggyakrabban Next.js és Tailwind CSS technológiákkal dolgozom
 - 🎯 Célom: profi és megbízható full-stack fejlesztővé válni
 
 ---
