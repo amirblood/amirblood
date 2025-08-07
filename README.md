@@ -40,7 +40,7 @@ Fiatal, lelkes fejlesztő Magyarországról. Szenvedélyem az új dolgok felfede
 ## 📫 Elérhetőség
 
 - Email: mail@blaszlo.eu
-- Discord: `amir_blood`
+- Discord: `amir._blood`
 - Portfolio: https://blaszlo.eu | HAMAROSAN
 
 ---
